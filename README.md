@@ -1,8 +1,15 @@
 # Python 爬取微信所有好友的个性签名，制作成词云图
 
-### 本代码文章首发于公众号「Python知识圈」，如需转载，请通过公众号联系作者pk哥，谢谢
+## 个人官网
+欢迎访问个人官网： https://www.pyzhishiquan.com/
+
+## 微信公众号
+欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
+
+### 本代码文章首发于公众号「Python知识圈」，如需转载，请通过公众号联系作者pk哥，谢谢
+
 
 #### 公众号里提供了我的微信，可以联系到我。
 
